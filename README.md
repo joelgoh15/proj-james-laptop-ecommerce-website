@@ -1,9 +1,10 @@
-## proj-james-laptop-ecommerce-website
+## Introduction
 An eCommerce website for <i>JamesLaptop</i>.
 
 ## Technical Details
-1. A portfolio project with an emphasis in UI/UX design.
-2. Technology stacks and approach used:
+A project with an emphasis in UI/UX design.
+
+Technology stacks and approach used:
 <ul>
   <ul>
     <li>HTML5</li>  
@@ -15,3 +16,5 @@ An eCommerce website for <i>JamesLaptop</i>.
     <li>MSSQL Database</li>
   </ul>
 </ul>
+
+
